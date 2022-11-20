@@ -6,10 +6,19 @@ https://josegar.itch.io/tamariz
 
 ----------------------------------------------------------
 
+## Presentado a la Jam
+
+https://github.com/JoseGarciaMoreno/Tamariz/tree/6a8fec3c8a6faa8de20d2fbb188e3971dd492d56
+
+-----------------------------------------------------------
+
 ## Plan posibles mejoras
 
-*Dados y puntos
-----------------------------------------------------------
+Asset: Sonido Game Over: 
+
+https://www.youtube.com/watch?v=wItqcSlORRc 
+
+-----------------------------------------------------------
 
 ## Sound Licenses
 
