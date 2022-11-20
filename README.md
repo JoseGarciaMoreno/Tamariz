@@ -6,6 +6,11 @@ https://josegar.itch.io/tamariz
 
 ----------------------------------------------------------
 
+## Plan posibles mejoras
+
+*Dados y puntos
+----------------------------------------------------------
+
 ## Sound Licenses
 
 Asset: Música
