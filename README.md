@@ -14,9 +14,7 @@ https://github.com/JoseGarciaMoreno/Tamariz/tree/6a8fec3c8a6faa8de20d2fbb188e397
 
 ## Plan posibles mejoras
 
-Asset: Sonido Game Over: 
-
-https://www.youtube.com/watch?v=wItqcSlORRc 
+Dados y puntos
 
 -----------------------------------------------------------
 
